@@ -1,2 +1,26 @@
-# To-Do-List-App
-This project is a Python-based To-Do List application designed using a menu-driven interface. It helps users manage daily tasks by allowing them to add, update, delete, and view tasks through simple terminal inputs.
+# 📝 To-Do List App (Python)
+
+A simple command-line based To-Do List application built using Python.  
+This app helps users manage daily tasks efficiently.
+
+## 🚀 Features
+- Add new tasks
+- Update existing tasks
+- Delete tasks
+- View all tasks
+- Menu-driven interface
+
+
+## 🛠️ Technologies Used
+- Python 3
+
+
+## 📸 Output Screenshot
+![To Do List Output]("screenshot/Output.png")
+
+
+## ▶️ How to Run
+python todo_list.py
+
+👩‍💻 Author
+Tanishka Chawla
